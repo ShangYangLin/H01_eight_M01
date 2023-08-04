@@ -7,7 +7,7 @@ Background: Sleep apnea was highly associated with metabolic disorders and neuro
 
 Objective: Built AI model of metabolic disorders and neurodegeneration in patients with sleep apnea (biochemical indicators) helps physicians and clinical health care personnels in early identify high risk population.
 
-Methods: Use the anthropometric features, medical and mental illness history, polysonmographic indexes, questionnaires (anxiety, depression, sleepness, etc.), metabolic and biochemical indicators (blood glucose monitoring, inflammatory biochemical indicators, blood lipid content, etc.), neurocognitive biochemical indicators (amyloid and Tau protein detection) to built risk of cognitive function alarm model.
+Methods: This trial was approved by TMU-JIRB (N201912097). Use the anthropometric features, medical and mental illness history, polysonmographic indexes, questionnaires (anxiety, depression, sleepness, etc.), metabolic and biochemical indicators (blood glucose monitoring, inflammatory biochemical indicators, blood lipid content, etc.), neurocognitive biochemical indicators (amyloid and Tau protein detection) to built risk of cognitive function alarm model.
 
 Results: Since August 2020, we have included subjects who are willing to participate in the study. We built two machine learning model (Support vector machine (SVM) and Random Forest (RF)) and a fully connected neural networks (deep learning) model, All three models is about 80% in accuracy. Due to the COVID19 epidemic, the progress of case acceptance is not as expected, so it is hard to improve the accuracy currently.
 
